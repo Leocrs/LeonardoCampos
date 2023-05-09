@@ -28,4 +28,7 @@ Algumas das Tecnologias que uso no meu dia a dia 💻
 <img align="center" alt="html5" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 <img align="center" alt="html5" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-</div>
+</div><br/>
+  
+  
+  Email: para contato: leonnardo.campos@gmail.com
