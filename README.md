@@ -1,6 +1,6 @@
 Olá, Eu sou o Leonardo Campos 👋
 
-Trabalho com TI a 20 anos em gerenciamento de ambientes generalistas, porém hoje a minha grande paixão é a programação em Python onde venho estudando e evoluindo. 
+Trabalho com TI a 20 anos em gerenciamento de ambientes generalistas, porém hoje a minha grande paixão é a programação Python 
 
 Meu instagram 👇
 
